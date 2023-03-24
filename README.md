@@ -1,0 +1,2 @@
+# navicat_-premium_sinicization
+NavicatPremium16汉化包
